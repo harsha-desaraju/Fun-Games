@@ -1,1 +1,4 @@
-This repository contains an implementaion of a single hidden layer neural network without using any packages written purely in python using numpy and scipy.
+This repository contains an implementaion of a single hidden layer neural network without using any packages written purely in python using numpy and scipy. 
+The code was written by following the book " Make Your Own Neural Network: A Gentle Journey Through the Mathematics of Neural Networks, and Making Your Own Using the Python Computer Language "
+by Tariq Rashid
+
